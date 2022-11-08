@@ -1,0 +1,3 @@
+[status]: <kuning>maintance
+[version]: <ijo>0.1
+[server-message]: Hi! jangan lupa subs mr_dark v2 ygy :v
