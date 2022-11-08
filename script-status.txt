@@ -1,3 +1,4 @@
+            <kuning>** <putih>INFORMATION <kuning>**
 <merah>[<putih>status<merah>]<putih>: <kuning>maintance
 <merah>[<putih>version<merah>]<putih>: <ijo>0.1
 <merah>[<putih>server-message<merah>]<putih>: Hi! jangan lupa subs mr_dark v2 ygy :v
