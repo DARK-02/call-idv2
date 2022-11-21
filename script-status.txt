@@ -1,4 +1,4 @@
             <kuning>** <putih>INFORMATION <kuning>**
-<merah>[<putih>status<merah>]<putih>: <ijo>WORK
-<merah>[<putih>version<merah>]<putih>: <ijo>2
+<merah>[<putih>status<merah>]<putih>: <merah>BETA TEST
+<merah>[<putih>version<merah>]<putih>: <ijo>3
 <merah>[<putih>server-message<merah>]<putih>: Hi! jangan lupa subs mr_dark v2 ygy :v
